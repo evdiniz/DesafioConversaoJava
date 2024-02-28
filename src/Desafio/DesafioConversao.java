@@ -2,7 +2,7 @@ package Desafio;
 
 import java.util.Scanner;
 
-public class DesafioConversão {
+public class DesafioConversao {
     public static void main(String[] args) {
 
         Scanner entrada = new Scanner(System.in);
